@@ -1,2 +1,2 @@
 function happyHolidays()
-  return = 
+  return "Happy Holidays!"
